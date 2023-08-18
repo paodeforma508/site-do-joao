@@ -1,0 +1,45 @@
+h1{
+    color:rgb(0, 0, 0);
+   padding-left: 600px;
+}
+
+.conteudo{
+    color:rgb(46, 67, 44);
+    margin-right:30px;
+}
+
+.header{
+    background:rgb(0,0,0);
+    background: linear-gradient(317deg, rgba(0,0,0,1) 0%, rgba(239,4,4,1) 6%, rgba(236,7,7,1) 9%, rgba(241,189,2,1) 18%, rgba(243,255,0,1) 25%, rgba(0,27,241,1) 31%, rgba(9,9,121,1) 37%, rgba(104,0,255,1) 43%, rgba(113,0,255,1) 48%, rgba(0,255,92,1) 55%, rgba(0,246,14,1) 60%, rgba(237,0,255,1) 69%, rgba(176,59,192,1) 76%, rgba(14,225,232,1) 92%, rgba(255,255,255,1) 98%, rgba(255,255,255,1) 99%);
+    flex-wrap:wrap;
+    justify-content:"center";
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.jogo1{
+    color:rgb(228, 16, 16);
+    
+}
+
+.jogo1:hover img{
+    opacity:0.33;
+}
+
+.grid{
+    position:relative
+}
+
+.grid p{
+   align-items:center;
+    
+    
+}
+
+.h2{
+    text-align:center;
+}
